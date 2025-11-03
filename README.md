@@ -20,8 +20,7 @@ Visualizations highlight the relationship between healthcare spending and under-
 
 ## 💻 Run it Yourself
 You can open and run this notebook directly on Google Colab:  
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fjnelima-pixel/health_analytics_project/blob/main/health_analysis.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fjnelima-pixel/faith_health_data_project/blob/main/health_analysis.ipynb)
 
 ## 📦 Requirements
 pandas
