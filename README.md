@@ -51,7 +51,7 @@ World Bank Open Data (World Development Indicators)
 -Includes dynamic year filter and country-level color coding
 
 Explore the Live Dashboard:
-👉 View on Tableau Public https://public.tableau.com/views/HealthAnalyticsDashboard/HealthExpenditurevsLifeExpectancy
+https://public.tableau.com/views/HealthAnalyticsDashboardAfrica20042024/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 ## 👩🏽‍💻 Author
