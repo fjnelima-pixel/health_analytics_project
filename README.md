@@ -50,8 +50,8 @@ World Bank Open Data (World Development Indicators)
 -Interactive visualization created with Tableau Public
 -Includes dynamic year filter and country-level color coding
 
-Explore the Live Dashboard:
-https://public.tableau.com/views/HealthAnalyticsDashboardAfrica20042024/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+### 🌍 Health Analytics Dashboard
+[![View in Tableau](https://img.shields.io/badge/View%20Dashboard-Tableau-blue?logo=tableau)](https://public.tableau.com/views/HealthAnalyticsDashboardAfrica20042024/Dashboard1)
 
 
 ## 👩🏽‍💻 Author
