@@ -1,33 +1,33 @@
 # Health Analytics Project
 
-This project explores relationships between health expenditure, immunization coverage, and child mortality across six African countries (Kenya, Nigeria, Egypt, South Africa, Senegal, and Ethiopia) using World Bank data.
+This project explores relationships between health expenditure, immunization coverage and child mortality across six African countries (Kenya, Nigeria, Egypt, South Africa, Senegal and Ethiopia) using World Bank data.
 
-## 🧠 Objective
+## Objective
 To understand how public health spending relates to key health outcomes in Africa using Python, Seaborn and OLS regression.
 
-## 📊 Tools Used
+## Tools Used
 - Python (Pandas, Seaborn, Matplotlib, Statsmodels)
 - World Bank Open Data API (`wbdata`)
 - Google Colab for reproducible analysis
 
-## ⚙️ Key Methods
+## Key Methods
 - Bivariate and OLS Regression
 - Data Visualization with Seaborn
 - Comparative Analysis across 6 countries
 
-## 📈 Results
+## Results
 Visualizations highlight the relationship between healthcare spending and under-5 mortality trends. The OLS model shows statistically significant correlations in several cases.
 
-### 🧮 Key Findings
+### Key Findings
 - Life expectancy and healthcare expenditure show a strong positive association across six African countries (R² = 0.78).
 - GDP per capita has a statistically significant relationship (p < 0.05) with life expectancy.
 - Visual patterns suggest countries with higher per-capita health spending tend to achieve better health outcomes.
 
-## 💻 Run it Yourself
+## Run it Yourself
 You can open and run this notebook directly on Google Colab:  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fjnelima-pixel/health_analytics_project/blob/main/Health_Analytics.ipynb)
 
-## 📦 Requirements
+## Requirements
 pandas
 seaborn
 matplotlib
@@ -50,9 +50,9 @@ World Bank Open Data (World Development Indicators)
 -Interactive visualization created with Tableau Public
 -Includes dynamic year filter and country-level color coding
 
-### 🌍 Health Analytics Dashboard
+### Health Analytics Dashboard
 [![View in Tableau](https://img.shields.io/badge/View%20Dashboard-Tableau-blue?logo=tableau)](https://public.tableau.com/views/HealthAnalyticsDashboardAfrica20042024/Dashboard1)
 
 
-## 👩🏽‍💻 Author
+## Author
 **Faith N Weyombo** – Data & Policy Analyst  
